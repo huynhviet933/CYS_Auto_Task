@@ -1,0 +1,7 @@
+{
+  "threads": 10,
+  "threadGap": 10,
+  "actionDelay": [3, 7],
+  "boxDelay": [10, 15],
+  "accountDelay": [30, 60]
+}
